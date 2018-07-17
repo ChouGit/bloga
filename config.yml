@@ -1,0 +1,44 @@
+title: Recordum
+description: All about Recordum
+
+url: https://acyort.am0200.com
+theme: donob
+
+per_page: 7
+
+# menu
+menu:
+  Archives: /archives/
+  About: /about/
+
+default_category: blog
+
+user: chougit
+repository: bloga
+
+plugins:
+  - acyort-rss
+  - acyort-archives
+  - acyort-paginator
+
+public_dir: public
+
+authors:
+  - LoeiFy
+
+timezone: Asia/Shanghai
+
+language:
+
+line_numbers:
+
+order:
+
+token: eb4a2f7ad99d49f6767d0279d461974dfadfaf3d
+
+cache: true
+
+rss: true
+
+archives:
+  per_page: 30
